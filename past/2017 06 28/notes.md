@@ -1,0 +1,2 @@
+# June 26 2017 Notes
+Thanks to everyone for coming out for another fantastic meetup!  Thanks to our presenters for awesome talks!  The presentation for the react-fiber talk are attached in the same directory as these notes.
