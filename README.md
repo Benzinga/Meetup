@@ -1,7 +1,21 @@
-# Detroit React Developers Meetup
+
+<p align="center">
+  <img alt="Lerna" src="https://github.com/Benzinga/Meetup/blob/master/detroitReactDevelopers.png" width="960">
+</p>
+
 ## Schedule for the next meetup (July 26th)
-1. ES2017 (ES8): What you need to know
-2. TBD
+1. `({ what, why, how } = Destructuring);`
+
+    You've seen it around, but can you solve the lispiest destructuring statements?  We'll be diving deep on the whys and wherefores of Javascript Destructuring.
+
+2. What's New ES2017 (ES8)?
+
+    Just last month ES2017 was released (well, finalized).  This talk will cover what's been added to the language, how/when/where to use each feature.
+
+
+<p align="center">
+  <img alt="Lerna" src="https://github.com/Benzinga/Meetup/blob/master/detroitReact.png" width="100">
+</p>
 
 ## What
 A meetup where we discuss all things javascript, but mainly focusing on React and associated members of the React ecosystem.  We're very conversational in format, and always have food and drinks available for attendees!
