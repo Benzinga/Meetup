@@ -1,0 +1,7 @@
+- [ ] Welcome, here's our WiFi creds
+- [ ] Introductions
+- [ ] Other relevant Meetups.
+- [ ] Talk 1: Error Boundaries
+- [ ] Talk 2: Render Performance
+- [ ] Topics for next time?
+- [ ] PROFIT
